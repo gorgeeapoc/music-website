@@ -1,0 +1,16 @@
+html{
+    background-color: rgb(28, 35, 252);
+    font-size:large
+}
+.track1 {color: rgb(50, 215, 252)}
+.track2 {color: rgb(255, 5, 93)}
+.mix2 {color:rgb(247, 247, 0)}
+.mix1 {color:rgb(0, 247, 8)}
+.track3 {color: rgb(255, 173, 254)}
+.menu {color: rgb(158, 173, 176); text-align : right;
+font-family: all ages;
+font-size:larger}
+.creds {font-size:small;
+color: rgb(158, 173, 176)}
+.block{vertical-align: middle}
+.titles {color: rgb(158, 173, 176)}
